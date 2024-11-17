@@ -10,4 +10,21 @@ Generative Adversarial Networks (GANs) are a class of machine learning framework
 
 Here is a demo of the GAN in action:
 
-![Generated Video](generated-3.mp4)
+[Generated Video](generated-3.mp4)
+
+## Generate Your Own Images
+
+To generate your own images using the GAN, you can use the `image_generation.py` script. Follow the steps below:
+
+1. Ensure you have all the required dependencies installed. Use conda for the installation
+    
+
+2. Run the `image_generation.py` script with the correct model file:
+
+    ```bash
+    python image_generation.py
+    ```
+
+3. The generated images will be opened in a new window.
+
+For more details, refer to the [image_generation.py](image_generation.py) script.
