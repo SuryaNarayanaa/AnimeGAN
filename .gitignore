@@ -12,5 +12,6 @@
 /runs/gan_experiment
 /__pycache__
 /animefacedataset/images
-/CelebA-GAN
 /anime_face_generation_GAN.ipynb
+/CelebA-GAN/CelebAzip
+/CelebA-GAN/runs
