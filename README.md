@@ -28,3 +28,11 @@ To generate your own images using the GAN, you can use the `image_generation.py`
 3. The generated images will be opened in a new window.
 
 For more details, refer to the [image_generation.py](image_generation.py) script.
+
+## Contributing
+
+If you find this project helpful, please consider giving it a star on GitHub. Your support is greatly appreciated!
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
